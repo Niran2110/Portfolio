@@ -6,9 +6,7 @@ Welcome to my personal developer portfolio! This website showcases my technical 
 
 Once GitHub Pages deployment is complete, your website will be available at:
 
-`https://niran2110.github.io/Portfolio/`
-
-Replace `Niran2110` with your GitHub username.
+https://niran2110.github.io/Portfolio/
 
 ## 👨‍💻 About Me
 
